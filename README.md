@@ -2,9 +2,9 @@
 El pueblo donde resido que es Villacañas, ubicado en Toledo, España.
 
 # Puntos de interés
-* Laguna Larga
-* Museo Etnológico del Silo
-* Casa-Museo de la Tía Sandalia
+* Laguna Larga.
+* Museo Etnológico del Silo.
+* Casa-Museo de la Tía Sandalia.
 
 # Fuentes
 * Imagen de la portada: https://upload.wikimedia.org/wikipedia/commons/7/7b/Vista_de_Villaca%C3%B1as.JPG
